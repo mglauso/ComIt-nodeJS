@@ -1,0 +1,114 @@
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    
+    body {
+        width: 100%;
+    }
+    
+    #cont {
+        background-color: #c9dec9;
+        text-align: center;
+        font-weight: bold;
+    }
+    
+    .bg-nav {
+        background-color: #0c0c0c;
+    }
+    
+    .navbar-brand img {
+        width: 20%;
+        height: 20%;
+        padding: 0%;
+        margin: 0%;
+    }
+    
+    #inicio {
+        margin-left: 13%;
+    }
+    
+    #descripcion1 {
+        background-color: #c9e6c9;
+        padding-top: 8%;
+        padding-bottom: 10%;
+        font-size: larger;
+        font-weight: bold;
+    }
+    
+    #centro {
+        text-align: center;
+    }
+    
+    #costado1 {
+        padding-top: 5%;
+        padding-right: 15%;
+        text-align: center;
+    }
+    
+    #costado2 {
+        padding-top: 5%;
+        padding-left: 15%;
+        text-align: center;
+    }
+    
+    .col h4 {
+        font-size: larger;
+        font-weight: bolder;
+    }
+    
+    #frecuentes {
+        text-align: center;
+        background-color: #c9dec9;
+        padding: 1%;
+        margin-top: 10%;
+    }
+    
+    .accordion-body img {
+        width: 20%;
+        height: 20%;
+    }
+    
+    #geolocalizacion h2 {
+        margin-top: 10%;
+        text-align: center;
+        background-color: #c9dec9;
+        padding: 1%;
+    }
+    
+    #info {
+        padding: 5%;
+        text-align: center;
+        font-size: large;
+        font-weight: bold;
+    }
+    
+    #info h4 {
+        font-size: larger;
+        font-weight: bolder;
+    }
+    
+    footer {
+        position: absoulte;
+        margin-top: 100%;
+        /* negative value of footer height */
+        clear: both;
+        background-color: black;
+        padding: 2%;
+        bottom: 0;
+    }
+    
+    footer p {
+        color: whitesmoke;
+        margin-top: 5%;
+    }
+    
+    footer .redes_sociales img {
+        width: 20%;
+        margin-left: 30%;
+        margin-right: 30%;
+    }
+    
+    footer .redes_sociales a:hover {
+        padding: 1%;
+    }
